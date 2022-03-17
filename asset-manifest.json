@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://coachstein.github.io/csb-8m3jkm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://coachstein.github.io/csb-8m3jkm/static/js/main.7ae24fc3.chunk.js",
+    "main.js.map": "https://coachstein.github.io/csb-8m3jkm/static/js/main.7ae24fc3.chunk.js.map",
+    "runtime-main.js": "https://coachstein.github.io/csb-8m3jkm/static/js/runtime-main.4ff95de5.js",
+    "runtime-main.js.map": "https://coachstein.github.io/csb-8m3jkm/static/js/runtime-main.4ff95de5.js.map",
+    "static/js/2.977ebc02.chunk.js": "https://coachstein.github.io/csb-8m3jkm/static/js/2.977ebc02.chunk.js",
+    "static/js/2.977ebc02.chunk.js.map": "https://coachstein.github.io/csb-8m3jkm/static/js/2.977ebc02.chunk.js.map",
+    "index.html": "https://coachstein.github.io/csb-8m3jkm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://coachstein.github.io/csb-8m3jkm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.977ebc02.chunk.js.LICENSE.txt": "https://coachstein.github.io/csb-8m3jkm/static/js/2.977ebc02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ff95de5.js",
+    "static/js/2.977ebc02.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7ae24fc3.chunk.js"
+  ]
+}
