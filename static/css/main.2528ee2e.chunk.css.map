@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,2CAA8C,CAC9C,iBACF","file":"main.2528ee2e.chunk.css","sourcesContent":[".App {\n  font-family: \"Courier New\", Courier, monospace;\n  text-align: center;\n}\n"]}
